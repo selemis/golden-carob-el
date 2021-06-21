@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /services/
+permalink: /products/
 ---
 
 ## Full length services page

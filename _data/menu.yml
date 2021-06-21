@@ -1,11 +1,6 @@
 - title: Home
   link: /
 
-- title: About
-  link: /about/
+- title: Products
+  link: "/products/"
 
-- title: Services
-  link: "/services/"
-
-- title: Contact
-  link: "/contact/"
