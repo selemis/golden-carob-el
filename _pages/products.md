@@ -3,7 +3,7 @@ layout: default
 permalink: /products/
 ---
 
-## Products Page
+## Προϊόντα
 <br>
 <div class="row">
   <div class="card-deck">
@@ -12,7 +12,7 @@ permalink: /products/
       <div class="card-body">
       </div>
       <div class="card-footer">
-        Kibbled Carob Cubes
+       Χαρουπάλευρο Xονδρό 
       </div>
     </div>
     <div class="card border-0 shadow">
@@ -20,7 +20,7 @@ permalink: /products/
       <div class="card-body">
       </div>
       <div class="card-footer">
-          Kibbled Carob Fine
+        Χαρουπάλευρο Ψιλό
       </div>
     </div>
     <div class="card border-0 shadow h-100">
@@ -28,7 +28,7 @@ permalink: /products/
       <div class="card-body">
       </div>
       <div class="card-footer">
-          Carob Seeds
+         Χαρουπόσπορος 
       </div>
     </div>
   </div>
@@ -43,7 +43,7 @@ permalink: /products/
       <div class="card-body">
       </div>
       <div class="card-footer">
-        Carob Pods
+        Χαρούπια Ακατέργαστα
       </div>
     </div>
     <div class="card border-0 shadow">
@@ -51,7 +51,7 @@ permalink: /products/
       <div class="card-body">
       </div>
       <div class="card-footer">
-         Guar
+        Γκουάρ
       </div>
     </div>
     <div class="card border-0 shadow h-100">
@@ -59,7 +59,7 @@ permalink: /products/
       <div class="card-body">
       </div>
       <div class="card-footer">
-          Carob Tree
+        Φυτώριο
       </div>
     </div>
   </div>
